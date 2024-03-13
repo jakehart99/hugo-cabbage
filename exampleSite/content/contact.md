@@ -1,25 +1,26 @@
 ---
-title: "Let's, Talk About You"
-description: "this is meta-description"
+title: "Speak to the Cabbage"
+description: "Reach out for your leafy green inquiries, cabbage lore, and more."
 layout: "contact"
 draft: false
 
-message: "Let's, Talk About You"
-button_text: "Send Now"
+message: "Speak to the Cabbage"
+button_text: "Send to the Cabbage Council"
 
-instruction_a: "Send Us A"
-instruction_b: " message"
+instruction_a: "Send the Cabbage Council A"
+instruction_b: " leafy message"
 
-full_name_title: "Full name"
-full_name_placeholder: "Thomas Milano"
+full_name_title: "Full Name"
+full_name_placeholder: "Jane Doe"
 
 email_title: "Email Address"
-email_placeholder: "example@email.com"
+email_placeholder: "cabbagefan@email.com"
 
 subject_title: "Subject"
-subject_placeholder: "Blog advertisement"
+subject_placeholder: "Inquiry about Cabbage Varieties"
 
-content_title: "Your Message Here"
-content_placeholder: "Hello I’m Mr ‘x’ from.............."
+content_title: "Your Leafy Message Here"
+content_placeholder: "Hello, I'm a cabbage enthusiast from.............."
 
 ---
+

@@ -1,6 +1,6 @@
 ---
 title: "Search Result"
-description: "this is meta description"
+description: "Cabbage Search"
 layout: "search"
 draft: false
 ---
