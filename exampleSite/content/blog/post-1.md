@@ -2,7 +2,7 @@
 title: "Cabbage: The Overlooked Astronomical Phenomenon"
 description: "meta description"
 image: "images/post/post-1.png"
-date: 2021-01-24T18:19:25+06:00
+date: 2024-03-13T18:19:25+06:00
 categories: ["cabbage"]
 tags: ["cabbage"]
 type: "featured" # available types: [featured/regular]

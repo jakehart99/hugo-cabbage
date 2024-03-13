@@ -12,7 +12,7 @@ logo_text = "Geeky"
 navbar_fixed = false
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
-author = "Themefisher"
+author = "Cabbage Gobler"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
 address = "9567 Turner Trace Apt. BC C3G8A4"
@@ -70,9 +70,9 @@ button_label = "About Cabbage"
 button_link = "about/"
 
 # Advertise
-[advertisement]
-image = "images/promotion.png"
-link = "https://gethugothemes.com/"
+# [advertisement]
+# image = "images/promotion.png"
+# link = "https://gethugothemes.com/"
 
 # cookies
 [cookies]
