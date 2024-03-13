@@ -15,11 +15,11 @@ description = "This is meta description"
 author = "Cabbage Gobler"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@email.com"
+address = "Main Cabbage Headquarters"
+mobile = "+1 (850) 530-6731"
+email = "cabbagehub1@gmail.com
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/xgegzqge" # contact form works with https://formspree.io
 # search
 search = true
 
@@ -97,8 +97,8 @@ newsletter_reminder_a = "By Subscribing, You Solemnly Swear To..."
 newsletter_reminder_b = "...Respect All Cabbages"
 newsletter_button = "Sign in"
 # mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+mailchimp_form_action = "https://cabbagehub.us22.list-manage.com/subscribe/post?u=06047c8e44d984a66c822a3d8&amp;id=e82cc1790d&amp;f_id=0090c0e1f0" # replace this url with yours
+mailchimp_form_name = "b_06047c8e44d984a66c822a3d8_e82cc1790d" # replace this code with yours
 
 
 ############################# social site ########################
