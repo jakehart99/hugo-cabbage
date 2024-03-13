@@ -1,7 +1,7 @@
 ---
 title: "About The Cabbage"
 description: "Dive into the leafy world of cabbages, the unsung heroes of the vegetable kingdom."
-image: "images/cabbage.png"
+image: "images/author.png"
 layout: "about"
 draft: false
 
