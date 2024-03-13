@@ -5,7 +5,7 @@ image: "images/post/post-1.png"
 date: 2021-01-24T18:19:25+06:00
 categories: ["cabbage"]
 tags: ["cabbage"]
-type: "regular" # available types: [featured/regular]
+type: "featured" # available types: [featured/regular]
 draft: false
 ---
 
