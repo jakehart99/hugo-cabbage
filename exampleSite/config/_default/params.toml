@@ -17,7 +17,7 @@ image = "images/logo.png" # this image will be used as fallback if a page has no
 # contact info
 address = "Main Cabbage Headquarters"
 mobile = "+1 (850) 530-6731"
-email = "cabbagehub1@gmail.com
+email = "cabbagehub1@gmail.com"
 # contact form action
 contact_form_action = "https://formspree.io/f/xgegzqge" # contact form works with https://formspree.io
 # search
