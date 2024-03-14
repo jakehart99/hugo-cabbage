@@ -21,7 +21,7 @@ Around the Cabbage Nebula orbits a medley of vegetable planets. We have Marth, t
 #### The Veggie Wayfarers
 It's not just planets that are drawn to the Cabbage Nebula. Passing comets composed of pure frozen olive oil and asteroids of crumbly feta cheese frequently whiz through the Salad System, creating a meteorological event that we like to call "The Great Seasoning."
 
-{{< image src="images/post/post-1.png" caption="Example Caption" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
+{{< image src="images/post/post-1.png" caption="Universe of the Cabbage" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
 
 #### The Cabbage's Cosmic Influence
 The influence of the cabbage extends beyond its immediate planetary salad. The gravitational field of the Cabbage Nebula affects the orbits of distant planets, keeping them in a delicate state of equilibrium. Without the cabbage's presence, the Salad System might fall into culinary chaos, proving that cabbages truly hold the universe together.
