@@ -4,7 +4,7 @@ description: "meta description"
 image: "images/post/post-3.png"
 date: 2024-03-14T18:19:25+06:00
 categories: ["cabbage"]
-tags: ["cabbage, mystery"]
+tags: ["cabbage", "mystery"]
 type: "featured" # available types: [featured/regular]
 draft: false
 ---
