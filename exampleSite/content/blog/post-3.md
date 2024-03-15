@@ -2,7 +2,7 @@
 title: "The Sinister Slaw: A Cabbage Noir"
 description: "Join us on a heartwarming voyage millions of years in the past, where two cabbages in a spaceship find love among the cosmos, defying the loneliness of space."
 image: "images/post/post-4a.png"
-date: 2024-03-14T18:19:25+06:00
+date: 2024-03-15T18:19:25+06:00
 categories: ["cabbage"]
 tags: ["cabbage"]
 type: "featured" # available types: [featured/regular]
