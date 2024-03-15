@@ -1,7 +1,7 @@
 ---
 title: "The Sinister Slaw: A Cabbage Noir"
 description: "meta description"
-image: "images/post/post-3.png"
+image: "images/post/post-2a.png"
 date: 2024-03-14T18:19:25+06:00
 categories: ["cabbage"]
 tags: ["cabbage", "mystery"]
@@ -14,7 +14,7 @@ In the underbelly of a city that never sleeps, where the streetlights flicker an
 #### The Grisly Discovery
 It was a scene so stark, it could wilt the crispest leaf: a cabbage, cut down in its prime, its layers carelessly strewn across a wooden block, a sharp knife glistening with the juice of its treachery. This was no random chopping—this was murder, cold and premeditated, a declaration of brutality in a city where to dice is to doom.
 
-{{< image src="images/post/post-2.png" caption="The ill-fated victim of a cold-hearted chop." alt="A chopped cabbage on a cutting board" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
+{{< image src="images/post/post-2b.png" caption="The ill-fated victim of a cold-hearted chop." alt="A chopped cabbage on a cutting board" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
 
 #### The Shadow Behind the Slaw
 They called him The Green Reaper, a figure shrouded in mystery, his motives as obscure as the dark corner of a refrigerator. His appearance was chilling: a towering, sinister cabbage with a smile that could curdle coleslaw. He moved through the kitchen with the silence of a cat on a countertop, his blade sharp and his intent even sharper.
