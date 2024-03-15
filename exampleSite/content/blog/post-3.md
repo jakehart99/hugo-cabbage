@@ -1,5 +1,5 @@
 ---
-title: "The Sinister Slaw: A Cabbage Noir"
+title: "Cabbage Cosmonauts: A Love Story Among the Stars"
 description: "Join us on a heartwarming voyage millions of years in the past, where two cabbages in a spaceship find love among the cosmos, defying the loneliness of space."
 image: "images/post/post-4a.png"
 date: 2024-03-15T18:19:25+06:00
