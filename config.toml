@@ -44,6 +44,9 @@ font_icon = "Font Awesome 6 Free"
 
 ############################# Plugins ##############################
 
+# Google Analytics
+googleAnalytics = G-YQTPDQ1FJE
+
 # CSS Plugins
 [[params.plugins.css]]
 link = "plugins/font-awesome/v6/brands.css"
