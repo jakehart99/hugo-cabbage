@@ -45,7 +45,7 @@ font_icon = "Font Awesome 6 Free"
 ############################# Plugins ##############################
 
 # Google Analytics
-googleAnalytics = G-YQTPDQ1FJE
+googleAnalytics = "G-YQTPDQ1FJE"
 
 # CSS Plugins
 [[params.plugins.css]]
