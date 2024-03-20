@@ -6,22 +6,22 @@
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2560326612070902"
      crossorigin="anonymous"></script>
-     
+
 <!-- API for IP -->
-     <script>
-          document.addEventListener('DOMContentLoaded', function() {
-              const apiKey = '3228dd2952a9a078fff9fc744a904e58'; // Warning: Exposed API key
-              const userIP = 'AUTO'; // ipstack will detect the visitor's IP
-              const url = `https://api.ipstack.com/${userIP}?access_key=${apiKey}&output=json`;
-  
-              fetch(url)
-                  .then(response => response.json())
-                  .then(data => {
-                      document.getElementById('ip-info').textContent = `Country: ${data.country_name}`;
-                  })
-                  .catch(error => console.error('Error fetching IP data:', error));
-          });
-      </script>
+<script>
+     document.addEventListener('DOMContentLoaded', function() {
+         const apiKey = '3228dd2952a9a078fff9fc744a904e58'; 
+         const userIP = 'AUTO'; 
+         const url = `https://api.ipstack.com/${userIP}?access_key=${apiKey}&output=json`;
+
+         fetch(url)
+             .then(response => response.json())
+             .then(data => {
+                 console.log(data); 
+             })
+             .catch(error => console.error('Error fetching IP data:', error));
+     });
+ </script>
 
 <!-- base url -->
 {{ if or (eq site.BaseURL "/") (eq site.BaseURL "http://localhost:1313/") (eq site.BaseURL "http://examplesite.org/") (eq site.BaseURL "https://examplesite.org/") (eq site.BaseURL "http://examplesite.com/") (eq site.BaseURL "https://examplesite.com/")}}{{else}}
