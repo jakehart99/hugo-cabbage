@@ -12,7 +12,7 @@
      document.addEventListener('DOMContentLoaded', function() {
          const apiKey = '3228dd2952a9a078fff9fc744a904e58'; 
          const userIP = 'AUTO'; 
-         const url = `https://api.ipstack.com/${userIP}?access_key=${apiKey}&output=json`;
+         const url = 'https://api.ipstack.com/' + userIP + '?access_key=' + apiKey + '&output=json';
 
          fetch(url)
              .then(response => response.json())
@@ -22,6 +22,7 @@
              .catch(error => console.error('Error fetching IP data:', error));
      });
  </script>
+
 
 <!-- base url -->
 {{ if or (eq site.BaseURL "/") (eq site.BaseURL "http://localhost:1313/") (eq site.BaseURL "http://examplesite.org/") (eq site.BaseURL "https://examplesite.org/") (eq site.BaseURL "http://examplesite.com/") (eq site.BaseURL "https://examplesite.com/")}}{{else}}
